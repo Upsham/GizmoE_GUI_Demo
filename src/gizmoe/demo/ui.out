@@ -1,0 +1,9 @@
+Demo::LookUpEmail, thread1162942631:: Trying to see if usham is an advisor in the database.
+Demo::FindBusy, thread1515461378:: Querying upsham@gmail.com's calendar to check availability.
+Demo::FindBusy, thread1515461378:: upsham@gmail.com is currently available at Rm222
+Demo::LookUpPhoto, thread1689098229:: Trying to get upsham's photo from database.
+Demo::GotoLocation, thread267301746:: Cobot3 is moving to Rm222
+Demo::LookUpPhoto, thread1689098229:: upsham's photo was found! It is at /Users/upsham/Pictures/upsham.jpg and is ready for display!
+Demo::GotoLocation, thread267301746:: Cobot3 is now at Rm222
+Demo::SkypeWithPerson, thread1997605019:: Now Skyping with upsham
+Demo::SkypeWithPerson, thread1997605019:: Finished skyping with upsham
